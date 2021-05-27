@@ -1,0 +1,93 @@
+body { 
+  margin: 0 auto;
+  padding: 0 10px;
+  max-width: 600px;
+  background-image: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, 0.5)),
+                  url(https://i.imgur.com/TJ0ztXn.png);
+}
+
+h1 {
+  position:relative;
+  margin-bottom: 0px;
+}
+
+h2{
+  position:relative;
+  margin-top: 3px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  margin-top: 0px;
+}
+
+h3 {
+  position:relative;
+  margin-bottom: 4px;
+}
+
+h4{
+  position:relative;
+  margin-top: 4px;
+  margin-bottom: 0px;
+}
+
+h5 {
+  position:relative;
+  margin-top: 4px;
+  margin-bottom: 6px;
+}
+
+p {
+  margin-top: 0px;
+}
+
+.header {
+  color: #344780;
+  font-size:20px;
+  font-family: Arial, sans-serif;
+  border-bottom: 2px solid black;
+  padding: 1px;
+  text-align: center 
+}
+
+.belowborder{
+  color: #707070;
+  font-size:8px;
+  text-align: center 
+}
+
+.subhead{
+  color: #344780;
+  font-family: Arial, sans-serif;
+  font-size:18px;
+}
+
+.info{
+  font-family: Arial, sans-serif;
+  font-size:14px;
+}
+
+.subsubhead{
+  font-family: Arial, sans-serif;
+  font-size:18px;
+}
+
+.subsubsubhead{
+  font-family: Arial, sans-serif;
+  font-size:18px;
+}
+
+img {
+  position: relative;
+  width: 10rem;
+  float: right;
+  margin-right: 30px;
+  transform: rotate(5deg);
+  border-radius: 20px;
+  box-shadow: 0px 0px 20px gray
+}
+
+.footer {
+  background: green;
